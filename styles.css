@@ -9,5 +9,8 @@
 }
 .recipe {
     font-size: 35px;
+}
+ul {
+    list-style-type: none;
     text-align: center;
 }
